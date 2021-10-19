@@ -1,3 +1,3 @@
 Nivel 1
-Primeiro projeto trilha 1
+iniciando os estudos na POdCodar
 
